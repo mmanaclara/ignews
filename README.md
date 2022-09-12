@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Visualização do site" src="./github/cover.png" width="100%">
+  <img alt="Visualização do site" src=".github/cover.png" width="100%">
 </p>
 
 ## 💻 Projeto
