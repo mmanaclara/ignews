@@ -44,8 +44,6 @@ export const authOptions = {
       } catch {
         return false
       }
-
-      return true
     },
   }
 }
